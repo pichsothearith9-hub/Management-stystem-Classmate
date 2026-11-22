@@ -1,0 +1,16 @@
+
+# Private database configuration
+config.local.php
+
+# Environment variables
+.env
+
+# Dependencies
+/vendor/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
